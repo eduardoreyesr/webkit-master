@@ -4,7 +4,7 @@
   const isDev = process.env.NODE_ENV = 'development';
 const nextConfig = {
   
-    basePath: inProduction? '/webkit-master': '',
+    basePath: inProduction? '/webkit-master/': '',
     output: 'export',
     distDir: 'dist',
     images: {
