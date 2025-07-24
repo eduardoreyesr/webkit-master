@@ -15,6 +15,8 @@ import PreLoader from "@/components/Blocks/PreLoader/PreLoader";
 import Blobs from "@/components/UI/Elements/Blobs/Blobs";
 import Particles from "@/components/UI/Cards/Particles/Particles";
 
+const config=require('../../../next.config.js');
+
 export default function Hero() {
     const [preloaderComplete, setPreloaderComplete] = useState(false);
     const container = useRef();
@@ -136,7 +138,7 @@ export default function Hero() {
                                 Soy Eduardo <span className={`${styles.icon}`}>
                                     <span className={styles.reveal}></span>
                                     <Image
-                                        src="/hero-img.jpg"
+                                        src={config.basePath + "/hero-img.jpg"}
                                         alt={commonConfig.metadata.title}
                                         width={640}
                                         height={300}
