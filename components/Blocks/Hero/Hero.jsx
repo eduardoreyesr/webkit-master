@@ -138,7 +138,8 @@ export default function Hero() {
                                 Soy Eduardo <span className={`${styles.icon}`}>
                                     <span className={styles.reveal}></span>
                                     <Image
-                                        src={config.basePath + "/hero-img.jpg"}
+                                        // src="/hero-img.jpg"
+                                        src= {config.basePath+"/hero-img.jpg"}
                                         alt={commonConfig.metadata.title}
                                         width={640}
                                         height={300}

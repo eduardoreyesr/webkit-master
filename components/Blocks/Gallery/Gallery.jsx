@@ -26,6 +26,9 @@ import ImageVideo from '@/database/ImageVideo.json';
 import Container from "@/components/UI/Layout/Layout";
 import FadeIn from "@/components/UI/FadeIn/FadeIn";
 import Blobs from "@/components/UI/Elements/Blobs/Blobs";
+
+const config=require('../../../next.config.js');
+
 export default function Gallery() {
     const swiperRef = useRef();
     const container = useRef();
@@ -123,7 +126,8 @@ export default function Gallery() {
                             <FadeIn y={50} duration={1.6} autoAlpha={1}>
 
                                 <Image
-                                    src={item.url}
+                                    // src={item.url}
+                                    src={config.basePath + item.url}
                                     quality={90}
                                     alt={`An image from ${item.location}`}
                                     width={1400}

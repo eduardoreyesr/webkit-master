@@ -7,6 +7,8 @@ import Title from "@/components/UI/Elements/Title/Title";
 import Companies from '@/database/Companies.json';
 import Blobs from "@/components/UI/Elements/Blobs/Blobs";
 
+const config=require('../../../next.config.js');
+
 export default function ExperienceBlock() {
 
     return (
@@ -23,7 +25,8 @@ export default function ExperienceBlock() {
                           duration={item.duration}
                           location={item.location}
                           image={item.image}
-                          url={item.url}
+                        //   url={item.url}
+                            url={config.basePath + item.url}
                           responsibilities={item.responsibilities}
                           color={item.color}
                           key={index}/>
