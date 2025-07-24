@@ -1,0 +1,64 @@
+[
+  {
+    "url": "/gallery/tecnofarma.jpg",
+    "date": "Enero 2024",
+    "location": "Gestión de Pacientes Web",
+    "direction": "vertical"
+  },
+  {
+    "url":"/gallery/bago.jpg",
+    "date": "Octubre 2023",
+    "location": "App de Visitas Médicas",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/komatsu.JPG",
+    "date": "Noviembre 2023",
+    "location": "Control de Garantías Web",
+    "direction": "horizontal"
+  },
+  {
+    "url": "/gallery/siscop.jpg",
+    "date": "Abril 2018",
+    "location": "Control de Asitencias Web",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/nettalcoapp.jpg",
+    "date": "Marzo 2020",
+    "location": "App de Reconocimiento de Voz",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/nettalcoweb.jpg",
+    "date": "Abril 2021",
+    "location": "Web de Trazabilidad RFID",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/superpet.jpg",
+    "date": "Julio 2021",
+    "location": "App Inventario de Productos",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/huarmey.jpg",
+    "date": "Enero 2018",
+    "location": "App control de Tareo",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/sisfood.jpg",
+    "date": "Julio 2021",
+    "location": "SISFOOD WEB",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/petramas.jpg",
+    "date": "Julio 2020",
+    "location": "Acceso Web RFID",
+    "direction": "horizontal"
+  }
+
+
+]

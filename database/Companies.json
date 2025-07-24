@@ -1,0 +1,76 @@
+[
+  {
+    "position": "Jefe de Proyectos TI",
+    "company": "Consorcio MADI SAC",
+    "duration": "Febrero 2024 - Presente",
+    "location": "Híbrido",
+    "image": "/company/tentwenty.svg",
+    "url": "https://pe.linkedin.com/company/consorcio-madi-sac",
+    "responsibilities": [
+      "Built animation-focused websites using React JS, GSAP, and the Locomotive Scroll library.",
+      "Integrated websites seamlessly with Concrete CMS for 100% easy content management.",
+      "Collaborated with designers and backend developers, delivering 10+ top-notch websites on time.",
+      "Achieved more than 50% faster webpage loading on every project, prioritizing performance and speed.",
+      "Experienced Arabic RTL layout in two significant projects.",
+      "Successfully met deadlines, delivering 10+ projects on time."
+    ],
+    "color": {
+      "h": "221",
+      "s": "79%",
+      "l": "51%"
+    }
+  },
+  {
+    "position": "Jefe de Proyectos TI",
+    "company": "HYBRIDE IT SAC ",
+    "duration": "Julio 2023 - Enero 2024",
+    "location": "Remoto",
+    "image": "/company/denge-bilgisayar.svg",
+    "url": "https://ibit.pe/",
+    "responsibilities": [
+      "Re-designed over 85 unique pages for B2B, CRM, and corporate websites in Figma.",
+      "Collaborated closely with two backend developers, creating the frontend of the entire project.",
+      "Ensured fast page loading, scoring over 90 in page speed.",
+      "Focused on making the B2B e-commerce platform easy to use for 3000+ business customers."
+    ],
+    "color": {
+      "h": "206",
+      "s": "59%",
+      "l": "44%"
+    }
+  },
+  {
+    "position": "Jefe de Proyectos TI",
+    "company": "TECFLEX",
+    "duration": "Enero 2015 - Junio 2023",
+    "location": "Presencial",
+    "image": "/company/agency-look.svg",
+    "url": "https://www.tecflex.com/",
+    "responsibilities": [
+      "Developed and maintained functional pages for web applications.",
+      "Worked with a .NET based custom CMS.",
+      "Built hundreds of responsive HTML email template modules, reducing email template processing time significantly."
+    ],
+    "color": {
+      "h": "240",
+      "s": "100%",
+      "l": "45%"
+    }
+  },
+  {
+    "position": "Analista de Proyectos Web",
+    "company": "Jlt Mariateguí Affinity",
+    "duration": "Diciembre 2013 - Diciembre 2014",
+    "location": "Presencial",
+    "image": "/company/softanka.svg",
+    "url": "https://pe.linkedin.com/company/mariategui-jlt-corredores-de-seguros-s-a-?trk=public_profile_topcard-current-company",
+    "responsibilities": [
+      "Designed and developed themes for game markets"
+    ],
+    "color": {
+      "h": "210",
+      "s": "0%",
+      "l": "90%"
+    }
+  }
+]

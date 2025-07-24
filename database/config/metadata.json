@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "Eduardo",
+    "title": "Eduardo Reyes - Ingeniero de Sistemas",
+    "description": "Lider de proyectos TI y web developer de sitios accesibles, receptivos, interactivos y animados con un fuerte enfoque en el rendimiento y adaptabilidad.",
+    "timeZone": "America/Lima",
+    "locale": "es-PE"
+  },
+  "personal": {
+    "name": "Eduardo",
+    "surname": "Reyes",
+    "role": "Ingeniero de Sistemas",
+    "experience": 15,
+    "email": "eduardoreyesr@outlook.com",
+    "phone": "+51 999-939-008",
+    "city": "Lima",
+    "state": "",
+    "country": "Peru",
+    "username": "@yasingencnet",
+    "cvURL": "https://1drv.ms/b/c/68a000ea750f4667/Eat4IU99ZnxIkQLnc8wFbpwBklD7O4qebn7ey3TVY3-g9Q?e=waUhq5",
+    "resumeURL": "https://1drv.ms/b/c/68a000ea750f4667/EUqxvQBE0MtFs3ANTzyJezoBsioAekGcVSF5hLeTiuHF-Q?e=hfcKbd"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yasingencnet",
+    "instagram": "https://www.instagram.com/yasingencnet",
+    "linkedin": "https://www.linkedin.com/in/eduardo-reyes-r-33a49282/",
+    "github": "https://github.com/eduardoreyesr",
+    "codepen": "https://codepen.io/yasingencnet"
+  },
+  "content": {
+    "verse": "Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. [2 Cor. 9:6]"
+  }
+}

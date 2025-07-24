@@ -1,0 +1,72 @@
+[
+  {
+    "icon": "IconJS",
+    "image": "/icon/icon-js.svg",
+    "title": "JavaScript",
+    "subtitle": "Vanilla, jQuery",
+    "description": "Dar vida a los sitios web con JavaScript, agregando funciones interactivas y optimizando el rendimiento con un código limpio y eficiente."
+  },
+  {
+    "icon": "IconReact",
+    "image": "/icon/icon-react.svg",
+    "title": "React JS y TS",
+    "subtitle": "Next.js, Vercel",
+    "description": "Usando React, se crea interfaces de usuario escalables con componentes, gestión de estados y manipulación de DOM virtual para aplicaciones web adaptables."
+  },
+  {
+    "icon": "IconCSS",
+    "image": "/icon/icon-css.svg",
+    "title": "CSS",
+    "subtitle": "Animaciones, Sass",
+    "description": "Priorizar la perfección de los píxeles, prestando mucha atención a los detalles para lograr diseños visualmente óptimos y alineados con precisión, garantizando una experiencia de usuario perfecta."
+  },
+  {
+    "icon": "IconHTML",
+    "image": "/icon/icon-html.svg",
+    "title": "HTML",
+    "subtitle": "Semantic Markup",
+    "description": "HTML es crucial para una web inclusiva. Estructuro el contenido cuidadosamente para garantizar la accesibilidad universal en la www."
+  },
+  {
+    "icon": "IconOptimization",
+    "image": "/icon/icon-optimization.svg",
+    "title": "PageSpeed",
+    "subtitle": "Insights",
+    "description": "Mejora el rendimiento del sitio web, garantizando tiempos de carga rápidos y una utilización eficiente de los recursos para una experiencia de usuario óptima."
+  },
+  {
+    "icon": "IconA11Y",
+    "image": "/icon/icon-a11y.svg",
+    "title": "A11Y",
+    "subtitle": "Web Accessibility",
+    "description": "La accesibilidad es fundamental. Me aseguro de que todos puedan usar los sitios web creados, priorizando la navegación con teclado y la compatibilidad con lectores de pantalla."
+  },
+  {
+    "icon": "IconFigma",
+    "image": "/icon/icon-figma.svg",
+    "title": "Design",
+    "subtitle": "Figma & Photoshop",
+    "description": "Sin llegar a ser diseñador de UI a tiempo completo, nos enfocamos en una buena estética y creación de interfaces visualmente atractivas y fáciles de usar."
+  },
+  {
+    "icon": "IconWebpack",
+    "image": "/icon/icon-webpack.svg",
+    "title": "Development Env.",
+    "subtitle": "Webpack",
+    "description": "Utilizo herramientas como Webpack, Vite, Parcel o Gulp para optimizar los flujos de trabajo y automatizar el desarrollo para lograr una mayor eficiencia."
+  },
+  {
+    "icon": "IconAPI",
+    "image": "/icon/icon-api.svg",
+    "title": "REST APIs",
+    "subtitle": "Axios x Fetch",
+    "description": "Integro datos y funcionalidades sin problemas con las API REST, creando aplicaciones web dinámicas para un mejor rendimiento."
+  },
+  {
+    "icon": "IconGSAP",
+    "image": "/icon/icon-gsap.svg",
+    "title": "GSAP",
+    "subtitle": "Scroll Animations",
+    "description": "Utilizo GSAP para crear animaciones atractivas que dan vida a las páginas web y mejoran la experiencia general del usuario."
+  }
+]

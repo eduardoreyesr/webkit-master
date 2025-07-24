@@ -1,0 +1,74 @@
+{
+  "works": {
+    "isActive": true,
+    "showOnNavigation":  false,
+    "showOnFooter":  true,
+    "title": "Proyectos",
+    "description": "Aquí hay una selección de proyectos que muestra mi experiencia y los resultados obtenidos.",
+    "image": "",
+    "link": "#gallery"
+  },
+  "skills": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Skills",
+    "description": "Descubre mis skills, desde liderar proyectos hasta crear sitios web y más.",
+    "image": "",
+    "link": "#skills"
+  },
+  "experience": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Experiencia",
+    "description": "Descubre los proyectos que he liderado y las tecnologías que domino.",
+    "image": "",
+    "link": "#experience"
+  },
+  "resume": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Resume",
+    "description": "Vea mi experiencia laboral y lo que he logrado en un currículum rápido y sencillo.",
+    "image": "",
+    "link": "#resume"
+  },
+  "contact": {
+    "isActive":  true,
+    "showOnNavigation":  true,
+    "showOnFooter":  false,
+    "title": "Contacto",
+    "description": "Now it’s your turn to say hi. I hope to hear from you!",
+    "image": "",
+    "link": "#footer"
+  },
+  "instagram": {
+    "isActive":  false,
+    "showOnNavigation":  false,
+    "showOnFooter":  true,
+    "title": "Instagram",
+    "description": "Good memories, best times. My photo journal.",
+    "image": "",
+    "link": "https://www.instagram.com/yasingencnet/"
+  },
+  "about": {
+    "isActive":  false,
+    "showOnNavigation": false,
+    "showOnFooter": false,
+    "title": "About",
+    "description": "I design & develop modern and accessible web interfaces.",
+    "image": "",
+    "link": "/about"
+  },
+  "blog": {
+    "isActive":  false,
+    "showOnNavigation":  false,
+    "showOnFooter":  false,
+    "title": "Blog",
+    "description": "Articles focused on CSS, HTML, JavaScript, and other frontend stuff.",
+    "image": "",
+    "link": "/blog"
+  }
+}
