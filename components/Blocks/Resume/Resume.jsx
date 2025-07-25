@@ -12,6 +12,8 @@ import FancyButton from "@/components/UI/Elements/Button/Button";
 import commonConfig from "@/database/config/metadata.json";
 import Link from "next/link";
 
+const config=require('../../../next.config.js');
+
 export default function Resume() {
     const container = useRef();
     const cardGroup = useRef();
@@ -70,12 +72,12 @@ He creado con éxito sitios web intuitivos con ReactJS/TS, Angular y NextJS. Pre
                                 </p>
                             </div>
                             <figure className={styles.figure}>
-                                <Image src="/eduardo-reyes-photo.jpg" alt="Eduardo Reyes" width={150} height={150}/>
+                                <Image src={config.basePath + "/eduardo-reyes-photo.jpg"} alt="Eduardo Reyes" width={150} height={150}/>
                             </figure>
                         </div>
                         <div className={`${styles.card} ${styles.cardV2}`}>
                             <div className={styles.cardInner}>
-                                <Image src="/code-snippet.svg" alt="Code Snippet" width={330} height={480}/>
+                                <Image src={config.basePath + "/code-snippet.svg"} alt="Code Snippet" width={330} height={480}/>
                             </div>
                         </div>
                     </div>

@@ -17,6 +17,8 @@ import NavDetailed from "@/components/UI/Cards/NavDetailed/NavDetailed";
 import WeatherAPI from "@/components/UI/Elements/WeatherAPI/WeatherAPI";
 import Blobs from "@/components/UI/Elements/Blobs/Blobs";
 
+const config=require('../../../next.config.js');
+
 export default function Footer() {
     gsap.registerPlugin(ScrollTrigger);
 
@@ -94,7 +96,7 @@ export default function Footer() {
                 </div>
             </div>
             <figure className={styles.skeleton} ref={skeleton}>
-                <Image src="/skeleton.png" alt={commonConfig.metadata.title} width={379} height={259} loading={"lazy"} />
+                <Image src={config.basePath+"/skeleton.png"} alt={commonConfig.metadata.title} width={379} height={259} loading={"lazy"} />
                 <span className={`${styles.eyeball} ${styles.left}`}></span>
                 <span className={`${styles.eyeball} ${styles.right}`}></span>
             </figure>

@@ -17,6 +17,9 @@ import Blobs from "@/components/UI/Elements/Blobs/Blobs";
 import Image from "next/image";
 import Ticker from "@/components/UI/Elements/Ticker/Ticker";
 
+
+const config=require('../../../next.config.js');
+
 export default function SkillSet() {
     gsap.registerPlugin(Draggable, InertiaPlugin, MotionPathPlugin, ScrollTrigger);
 
@@ -106,7 +109,7 @@ export default function SkillSet() {
                             {Skills.map((skill, index) => (
                                 <div key={index}
                                      className={`${styles.box} ${activeIndex === index ? styles.isActive : ''}`}>
-                                    <Image className={styles.image} src={skill.image} alt={skill.title} width={80}
+                                    <Image className={styles.image} src={config.basePath + skill.image} alt={skill.title} width={80}
                                            height={80}
                                            loading={'lazy'}/>
                                 </div>

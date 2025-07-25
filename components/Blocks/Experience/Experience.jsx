@@ -26,7 +26,7 @@ export default function ExperienceBlock() {
                           location={item.location}
                           image={item.image}
                         //   url={item.url}
-                            url={config.basePath + item.url}
+                          url={config.basePath + item.url}
                           responsibilities={item.responsibilities}
                           color={item.color}
                           key={index}/>
